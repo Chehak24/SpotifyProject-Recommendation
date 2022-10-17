@@ -111,7 +111,7 @@ Therefore the type of recommendation is directly dependant on the weightage(perc
 
 ### Deployment 
 ##### Flask
-- Our web application has been built on flask and can be found here [Music Recommendation System](...........).
+- Our web application has been built on flask and can be found here [Music Recommendation System](https://favreco.herokuapp.com/about).
 Flask is used for developing web applications using python and comes with in-built advantages like built-in development server and a fast debugger,lightweight, secure  cookies are supported,Request dispatching using REST to name a few. The files of this part are set up in ```venv``` folder.
 ![d21e3352-e081-419e-9796-61197cad7e64](https://user-images.githubusercontent.com/63547219/193746230-cd5d235a-1858-4d01-b746-a155ad3f8c5c.jpg)
 
